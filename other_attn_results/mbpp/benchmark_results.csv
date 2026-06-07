@@ -1,0 +1,2 @@
+alg,temperature,eta,seed,layer,dependency_threshold,max_defer_frac,fallback_kappa,"mbpp/pass@1,create_test","mbpp/pass@10,create_test","mbpp/pass@10_stderr,create_test","mbpp/pass@1_stderr,create_test",error,run_dir
+p2_defer,0.8,1.0,42,0,2.0,0.5,0.02,0.13600000000000012,0.356,0.021434712356072666,0.01105859779403973,,results/bench_20260607_140921/p2_defer_T0.8_E1.0_L0_Th2.0_Md0.5_S42

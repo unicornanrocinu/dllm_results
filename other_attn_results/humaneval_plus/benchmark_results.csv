@@ -1,0 +1,2 @@
+alg,temperature,eta,seed,layer,dependency_threshold,max_defer_frac,fallback_kappa,"humaneval_plus/pass@1,create_test","humaneval_plus/pass@10,create_test","humaneval_plus/pass@10_stderr,create_test","humaneval_plus/pass@1_stderr,create_test",error,run_dir
+p2_defer,0.8,1.0,42,0,2.0,0.5,0.02,0.1713414634146342,0.38414634146341464,0.03809722223934334,0.02307637884803466,,results/bench_20260607_104352/p2_defer_T0.8_E1.0_L0_Th2.0_Md0.5_S42
